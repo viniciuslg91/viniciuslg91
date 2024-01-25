@@ -15,7 +15,7 @@
 - Python
 - Git/Github
 - ROS
-- ROS2
+- ROS 2
 - Gazebo
  
 #Interest in
